@@ -1,7 +1,7 @@
 I am Sharifah
-<<<<<<< HEAD
+
 anybody is here?
 
-=======
 waleed
->>>>>>> 81c8b1a15fe59cdd18609a6f91b068760326dcaa
+
+waleed.......
