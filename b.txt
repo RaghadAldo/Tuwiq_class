@@ -1,15 +1,10 @@
 Hello from b file.
 
 I am Deema!
-<<<<<<< HEAD
+
 Everything works perfect!
 
-Ashwaq update
-=======
- 
-
+Ashwaq update 
 and i am yazeed 
 
 Ashwaq update
-
->>>>>>> 38f3b52c2331a41bfcbfd50ad552fbdb4aec3087
